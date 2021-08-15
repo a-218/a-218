@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @a-218 or Alex Li
 
-- 🌱 I’m currently learning coding from Lighthouse Labs
+- 🌱 I have graduated from Lighthouse Labs Web Development Bootcamp
+
+- ✨   Looking for employment opportunities to improve my programming skills. 
 
 
 <!---
