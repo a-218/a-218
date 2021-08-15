@@ -2,7 +2,7 @@
 
 - 🌱 I have graduated from Lighthouse Labs Web Development Bootcamp
 
-- ✨   Looking for employment opportunities to improve my programming skills. 
+- ✨ Looking for employment opportunities to improve my programming skills. 
 
 
 <!---
