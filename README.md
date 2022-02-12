@@ -2,7 +2,7 @@
 
 - 🌱 I have graduated from Lighthouse Labs Web Development Bootcamp
 
--✨ Currently working at Newsly Me App as a Full Stack Developer Intern until the end of March
+- ✨ Currently working at Newsly Me App as a Full Stack Developer Intern until the end of March
 
 - ✨ Looking for employment opportunities to improve my programming skills. 
 
