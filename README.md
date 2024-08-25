@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @a-218 or Alex Li
 
-- 🌱 I have graduated from Lighthouse Labs Web Development Bootcamp
-
 - ✨ Currently working at Copperleaf as a Software Engineer In Test
   
 - ✨ Open for opportunities to improve my programming skills. 
