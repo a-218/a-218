@@ -2,9 +2,9 @@
 
 - 🌱 I have graduated from Lighthouse Labs Web Development Bootcamp
 
-- ✨ Currently working at Newsly Me App as a Full Stack Developer Intern until the end of March
-
-- ✨ Looking for employment opportunities to improve my programming skills. 
+- ✨ Currently working at Copperleaf as a Software Engineer In Test
+  
+- ✨ Open for opportunities to improve my programming skills. 
 
 - Resume: https://resume.creddle.io/resume/8lpp91n6kfb
 
